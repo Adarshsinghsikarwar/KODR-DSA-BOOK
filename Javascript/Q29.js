@@ -15,3 +15,4 @@ for (let i = 1; i <= val; i++) {
 
 console.log(`evenSum upto val : ${evenSum}`);
 console.log(`oddSum upto val : ${oddSum}`);
+
