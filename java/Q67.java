@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// Strong number using methods.
+
 public class Q67 {
 
     public  static int isStrong(int n){

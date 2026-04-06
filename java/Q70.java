@@ -1,4 +1,5 @@
 
+// Given a sorted array of distinct elements, find the summation of absolute differences of all pairs in the given array. (Ex: arr[] = {1, 2, 3, 4}, Output: 10)
 public class Q70 {
     public static void main(String[] args) {
         int[] A = {3,2,5,4};

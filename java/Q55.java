@@ -1,4 +1,5 @@
 
+//Find the greatest element (Ex: {2, 96, 69, 77, 145, 20} = Max element = 145 found at 4 index)
 
 public class Q55 {
     public static void main(String[] args) {

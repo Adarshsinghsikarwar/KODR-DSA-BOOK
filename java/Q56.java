@@ -1,3 +1,5 @@
+// Find the second greatest element (Ex: {2, 96, 69, 77, 145, 20} = Second greatest element = 96)
+
 
 public class Q56 {
     public static void main(String[] args) {

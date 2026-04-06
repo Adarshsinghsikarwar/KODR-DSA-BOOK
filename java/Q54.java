@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+
+// Accept size n from user and create an n size array then take n inputs into it and finally print the sum & average of all elements.
 public class Q54 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

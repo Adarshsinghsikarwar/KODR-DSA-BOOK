@@ -1,4 +1,6 @@
 
+
+//Check if array is sorted in increasing order or not. (Ex 1 - { 1, 5, 8, 9, 10, 15 } - OP = \YES\"
 public class Q57 {
     public static void main(String[] args) {
         int[] arr =  { 1, 5, 8, 9, 10, 15 };

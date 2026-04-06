@@ -1,5 +1,6 @@
 
 import java.util.*;
+//Take n integer inputs from user and store them in an array. Now, copy all the elements into another array in reverse order and print it.
 
 public class Q58 {
     public static void main(String[] args) {

@@ -1,6 +1,8 @@
 
 import java.util.Scanner;
 
+// Linear Search an array - If element found print the index, else -1
+
 public class Q62 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

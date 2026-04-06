@@ -1,7 +1,7 @@
 
 public class Q72 {
     public static void main(String[] args) {
-        int[] arr = {2, 3, 5, 1};
+        int[] arr = {2,3,4,5,1};
         int max = Integer.MIN_VALUE;
         int delete = 0;
 

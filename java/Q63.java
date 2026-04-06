@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//Binary Search. If element found print the index, else -1
 public class Q63 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

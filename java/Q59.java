@@ -1,5 +1,7 @@
 import java.util.*;
 
+//Array left Rotation by 1
+
 public class Q59 {
     public static void main(String[] args) {
         int[] arr = {3,2,1,4,5,6,9};

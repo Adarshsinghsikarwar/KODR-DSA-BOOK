@@ -10,6 +10,10 @@ public class Q82 {
                 set.add(arr[i]);
             }
         }
+
+//        for(int i : arr){
+//            System.out.print(i);
+//        }
         System.out.println("ans is : " + set.size());
     }
 }

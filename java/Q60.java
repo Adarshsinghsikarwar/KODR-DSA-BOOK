@@ -1,6 +1,8 @@
 
 import java.util.Scanner;
 
+// Array left rotation by K elements
+
 public class Q60 {
 
     public static void rotate(int[] arr , int i , int j){
