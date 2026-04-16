@@ -1,4 +1,7 @@
 package java;
 
 public class Q88 {
+    public static void main(String[] args) {
+
+    }
 }

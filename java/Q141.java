@@ -1,9 +1,9 @@
 package java;
 
-
+// Find Pivot Index
 public class Q141 {
     public static void main(String[] args) {
-        int[] arr = {1,7,3,6,5,6};
+       int[] arr = {1,7,3,6,5,6};
         int n = arr.length;
         int leftSum = 0;
         int rightSum =0;
@@ -14,12 +14,12 @@ public class Q141 {
 
         for(int i = 0; i < n; i++){
             rightSum -= arr[i];
-            if(leftSum == rightSum) {
+            if(leftSum == rightSum){
                 System.out.print("Ans : " + i);
-                return ;
+                return;
             }
             leftSum += arr[i];
         }
-        System.out.println("Ans is : " + (-1));
+        System.out.println("Ans : " + (-1));
     }
 }

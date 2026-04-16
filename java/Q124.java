@@ -25,6 +25,6 @@ public class Q124 {
             s = newStr.toString();
         }
 
-        return s;
+        System.out.println("Ans : " + s);
     }
 }
