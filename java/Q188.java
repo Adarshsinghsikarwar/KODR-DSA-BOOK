@@ -1,4 +1,4 @@
-package java;
+
 
 // Search element in Mountain / Bitonic array
 public class Q188 {
